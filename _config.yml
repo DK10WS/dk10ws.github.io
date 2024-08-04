@@ -16,10 +16,10 @@ timezone: Asia/Kolkata
 
 title: DK's stuff # the main title
 
-tagline: Everything i do goes on this website. # it will display as the sub-title
+tagline: Everything I do goes on this website # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Everything i do goes on this website
+  A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.

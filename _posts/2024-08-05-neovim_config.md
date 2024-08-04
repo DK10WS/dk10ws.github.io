@@ -1,6 +1,7 @@
 ---
+layout: post
 title: "My Neovim Config"
-date: 2024-08-05 18:00:00 -0500
+date: 2024-08-05 00:00:00 +0000
 categories: Linux
 tags: [neovim,config]
 ---
@@ -15,7 +16,6 @@ I researched more, got to know about [Neovim](https://neovim.io/) and its plugin
 
 # How to start writing your own config
 
-> [!NOTE]
 > This is not a Guide on how to write your own config rather what is required to write your config
 
 You can use any tutorial you like, or you can set it up yourself by reading the documentation and understanding how each plugin actually functions and how you can modify its behavior. **Its not necessary to know lua to write your own config but its better if you know**.
