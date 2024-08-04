@@ -1,9 +1,8 @@
 ---
-layout: post
 title: "My Neovim Config"
 date: 2024-08-05 18:00:00 -0500
 categories: Linux
-tags: Neovim,config
+tags: (Neovim,config)
 ---
 
 ### [Link to my config](github.com/dk10ws/neovim)
