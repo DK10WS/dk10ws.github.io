@@ -6,7 +6,7 @@ categories: Linux
 tags: [neovim,config]
 ---
 
-### [Link to my config](github.com/dk10ws/neovim)
+### [Link to my config](https://github.com/DK10WS/Neovim/)
 
 # Why Neovim
 
@@ -36,6 +36,6 @@ If you choose to write it yourself, then
 
 7. Major Work of your configuration is done now you can add [none-ls](https://github.com/nvimtools/none-ls.nvim), This is used to indent and format your code properlike like prettier in Vscode.
 
-8. These many plugins should get you started you can also reffer to my [config](github.com/dk10ws/neovim) to see more uselful plugins i have installed.
+8. These many plugins should get you started you can also reffer to my [config](https://github.com/DK10WS/Neovim/) to see more uselful plugins i have installed.
 
 The main Purpose of writing your own config is to identify what you need and search it up and you will find a plugin for it, You can also ask on [neovim reddit](https://www.reddit.com/r/neovim/) if you get stuck at any point.
