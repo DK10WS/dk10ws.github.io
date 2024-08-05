@@ -16,14 +16,14 @@ timezone: Asia/Kolkata
 
 title: DK's stuff # the main title
 
-tagline: "Machine Learning Engineer | INDIA" # it will display as the sub-title
+tagline: Machine Learning Engineer | India # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://dk10ws.github.io"
 
 github:
   username: dk10ws # change to your github username
@@ -42,7 +42,7 @@ social:
     - https://github.com/dk10ws # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/dhruv-kunzru-b9bb4b129/
+    # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
 webmaster_verifications:
